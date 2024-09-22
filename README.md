@@ -1,4 +1,4 @@
-  ![image](https://github.com/user-attachments/assets/5d262a18-b14f-488b-a23a-30fa529cf130)  ### EX5 Information Retrieval Using Boolean Model in Python
+### EX5 Information Retrieval Using Boolean Model in Python
 ### DATE: 21-09-2024
 ### AIM: To implement Information Retrieval Using Boolean Model in Python.
 ### Description:
